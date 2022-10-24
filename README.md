@@ -245,10 +245,7 @@ Conversion specifiers to handle: d, i, u, o, x, X
 ##### REPO:
 * GitHub repository: printf
 #
-### Authors
 
-* [Camilo Bayona Orduz](https://www.camilobayona.com) - *Initial work* - [cbayonao](https://github.com/cbayonao)
-* [Cristiam Camilo Baquero](https://www.camilobaquero.com) - *Initial work* - [camilooob](https://github.com/camilooob)
 
 ### Acknowledgments
 
